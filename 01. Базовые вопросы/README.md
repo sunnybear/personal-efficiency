@@ -18,3 +18,4 @@
 ## Курсы
 1. "Личностное развитие" (бесплатный): https://stepik.org/course/53429/promo
 2. "Траектория эффективности "Я" (бесплатный): https://stepik.org/course/83188/promo
+3. "Эффективное обучение" (~2000 рублей): https://stepik.org/course/59015/promo
