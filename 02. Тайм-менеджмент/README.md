@@ -11,5 +11,9 @@
 
 ## Навыки ускорения
 
+### Литература
+1. 14 способов прокачать мозг: https://dzen.ru/a/YE29VBJqPUVaxmR1
+
 ### Курсы
 1. Скорочтение и развитие памяти (бесплатный): https://stepik.org/course/69057/promo
+2. Развитие памяти и внимания от Advance (платно): https://advance.ru/razvivayushie_kursy/dlya_vzroslyh/
