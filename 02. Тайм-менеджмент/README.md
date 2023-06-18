@@ -3,7 +3,11 @@
 ## Тайм-менеджмент
 
 ### Литература
-1. Глеб Архангельский
+1. Обзор техник: https://trends.rbc.ru/trends/education/606335659a7947a191c4b092
+2. Глеб Архангельский. Тайм-менеджемент: полный курс, https://www.litres.ru/book/gleb-arhangelskiy/taym-menedzhment-polnyy-kurs-6880608/
+
+### Курсы
+1. Тайм-менеджмент (бесплатный): https://stepik.org/course/102186/promo
 
 ## Навыки ускорения
 
