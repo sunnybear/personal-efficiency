@@ -7,6 +7,7 @@
 
 ### Курсы
 1. Профилактика дистресса и депрессии (~500 рублей): https://stepik.org/course/173325/promo
+2. Рабочая тетрадь "В поиске ресурсов": https://psysimple.ru/wp-content/uploads/2021/03/v-poiske-resursov.pdf
 
 ## Секреты мотивации
 
