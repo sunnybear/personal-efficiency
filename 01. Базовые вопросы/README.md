@@ -22,3 +22,4 @@
 2. "Траектория эффективности "Я" (бесплатный): https://stepik.org/course/83188/promo
 3. "Эффективное обучение" (~2000 рублей): https://stepik.org/course/59015/promo
 4. "Как провести продуктивный год" (~1000 рублей): https://stepik.org/course/156226/promo
+5. Обучение Обучению (~2000 рублей): https://stepik.org/course/122285/promo
