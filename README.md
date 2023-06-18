@@ -22,7 +22,7 @@
 
 01. [Базовые понятия: что такое эффективность, как определить свою эффективность, с чего начать](https://github.com/sunnybear/personal-efficiency/tree/main/01.%20Базовые%20вопросы)
 02. [Тайм-менеджмент: известные техники](https://github.com/sunnybear/personal-efficiency/tree/main/02.%20Тайм-менеджмент)
-03. Секреты мотивации
+03. [Секреты мотивации](https://github.com/sunnybear/personal-efficiency/tree/main/03.%20Секреты%20мотивации)
 04. Системное мышление
 05. [Осознанность и эмоциональный интеллект](https://github.com/sunnybear/personal-efficiency/tree/main/05.%20Осознанность)
 06. Управление стрессом
