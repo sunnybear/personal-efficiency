@@ -2,5 +2,7 @@
 
 ## Литература
 1. Голос сердца: https://sciencepop.ru/golos-serdtsa-nauchnoe-obosnovanie-intuitsii/
+2. Как работает интуиция: https://lifehacker.ru/kak-rabotaet-intuiciya/
 
 ## Курсы
+1. От интуиции к ясновидению (упражнения для практики): https://www.youtube.com/watch?v=Sy0JInWVkeI
