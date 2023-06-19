@@ -26,7 +26,7 @@
 04. [Системное мышление](https://github.com/sunnybear/personal-efficiency/tree/main/04.%20Системное%20мышление)
 05. [Осознанность и эмоциональный интеллект](https://github.com/sunnybear/personal-efficiency/tree/main/05.%20Осознанность)
 06. Управление стрессом
-07. Интуиция
+07. [Интуиция](https://github.com/sunnybear/personal-efficiency/tree/main/07.%20Интуиция)
 08. [Механизмы внимания](https://github.com/sunnybear/personal-efficiency/tree/main/08.%20Механизмы%20внимания)
 
 ### Часть 2: эффективное взаимодействие
