@@ -23,3 +23,4 @@
 3. "Эффективное обучение" (~2000 рублей): https://stepik.org/course/59015/promo
 4. "Как провести продуктивный год" (~1000 рублей): https://stepik.org/course/156226/promo
 5. Обучение Обучению (~2000 рублей): https://stepik.org/course/122285/promo
+6. Конструктор образования и саморазвития (~2000 рублей): https://stepik.org/course/135432/promo 
