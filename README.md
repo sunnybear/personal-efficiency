@@ -25,11 +25,10 @@
 03. [Секреты мотивации](https://github.com/sunnybear/personal-efficiency/tree/main/03.%20Секреты%20мотивации)
 04. [Системное мышление](https://github.com/sunnybear/personal-efficiency/tree/main/04.%20Системное%20мышление)
 05. [Осознанность и эмоциональный интеллект](https://github.com/sunnybear/personal-efficiency/tree/main/05.%20Осознанность)
-06. Управление стрессом
+06. [Управление стрессом](https://github.com/sunnybear/personal-efficiency/tree/main/06.%20Стрессоустойчивость)
 07. [Интуиция](https://github.com/sunnybear/personal-efficiency/tree/main/07.%20Интуиция)
 08. [Механизмы внимания](https://github.com/sunnybear/personal-efficiency/tree/main/08.%20Механизмы%20внимания)
 09. Намерение, фокус и концентрация
-10. Баланс работа-отдых
 
 ### Часть 2: эффективное взаимодействие
 
