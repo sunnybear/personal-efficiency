@@ -8,5 +8,4 @@
 1. Интуитивное мышление и как его развить: https://www.youtube.com/watch?v=z06IhXIrfBU
 
 ## Курсы
-1. Психология телодвижений (бесплатный): https://stepik.org/course/52031/promo
-2. От интуиции к ясновидению (упражнения для практики): https://www.youtube.com/watch?v=Sy0JInWVkeI
+1. От интуиции к ясновидению (упражнения для практики): https://www.youtube.com/watch?v=Sy0JInWVkeI
