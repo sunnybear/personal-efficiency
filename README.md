@@ -28,7 +28,8 @@
 06. [Управление стрессом](https://github.com/sunnybear/personal-efficiency/tree/main/06.%20Стрессоустойчивость)
 07. [Интуиция](https://github.com/sunnybear/personal-efficiency/tree/main/07.%20Интуиция)
 08. [Механизмы внимания](https://github.com/sunnybear/personal-efficiency/tree/main/08.%20Механизмы%20внимания)
-09. Намерение
+09. Намерение и целеполагание
+10. Физическое и ментальное здоровье
 
 ### Часть 2: эффективное взаимодействие
 
