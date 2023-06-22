@@ -7,6 +7,7 @@
 
 ### Курсы
 1. "Проактивное мышление" (~5000 рублей): https://stepik.org/course/126433/promo
+2. Развитие памяти и внимания от Advance (платно): https://advance.ru/razvivayushie_kursy/dlya_vzroslyh/
 
 ## Концентация и медитации
 
