@@ -14,3 +14,11 @@
 ### Курсы
 
 ## Психологическое здоровье
+
+### Литература
+1. Принципы ненасильственного общения: https://4brain.ru/blog/nenasilstvennoe-obschenie/
+2. Манипуляции: https://www.b17.ru/article/24195/
+3. Детские комплексы: https://spc.edunp.by/files/02015/obj/115/15193/doc/детские_комплексы.pdf
+
+### Курсы
+1. Скажи нет токсичным отношениям: https://stepik.org/course/124104/promo
