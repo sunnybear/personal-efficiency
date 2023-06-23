@@ -11,3 +11,10 @@
 2. Психология экстремальных ситуаций (бесплатно): https://stepik.org/course/57511/promo
 
 ## Баланс работа-отдых
+
+### Литература
+1. Work-life balance: https://hh.ru/article/29023
+2. Выгорание: https://www.b17.ru/article/burnout_syndrome/
+
+### Курсы
+1. Профилактика эмоционального выгорания: https://stepik.org/course/54434/promo
