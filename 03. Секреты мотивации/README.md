@@ -22,3 +22,4 @@
 ### Курсы
 1. Как создавать увлечения, потоки и саморазвитие (~1000 рублей): https://stepik.org/course/64968/promo
 2. Мотивационный аутотренинг (~1000 рублей): https://stepik.org/course/129163/promo
+3. Техники мотивации (бесплатно после регистрации): https://www.udemy.com/course/everydaytechniques/
