@@ -14,5 +14,8 @@
 
 ## Целеполагание
 
+### Курсы
+1. Постановка целей по SMART (~1000 рублей): https://www.mental-skills.ru/training/13/
+
 ### Видео
 1. Н. Дешковец, Планирование и личные цели: https://www.youtube.com/watch?v=tcJEJUit458
