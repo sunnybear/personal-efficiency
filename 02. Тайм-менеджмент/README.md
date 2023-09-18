@@ -9,6 +9,7 @@
 
 ### Курсы
 1. Тайм-менеджмент (бесплатный): https://stepik.org/course/102186/promo
+2. Тайм-менеджмент (бесплатный): https://www.mental-skills.ru/training/6/
 
 ## Развитие мозга и памяти
 
