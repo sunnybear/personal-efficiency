@@ -14,6 +14,9 @@
 
 ## Целеполагание
 
+### Литература
+1. Цели по SMART и GROW: https://practicum.yandex.ru/blog/celi-i-zadachi-po-smart/
+
 ### Курсы
 1. Постановка целей по SMART (~1000 рублей): https://www.mental-skills.ru/training/13/
 
