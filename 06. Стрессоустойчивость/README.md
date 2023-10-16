@@ -17,4 +17,5 @@
 2. Выгорание: https://www.b17.ru/article/burnout_syndrome/
 
 ### Курсы
-1. Профилактика эмоционального выгорания: https://stepik.org/course/54434/promo
+1. Профилактика эмоционального выгорания (бесплатно): https://stepik.org/course/54434/promo
+2. Преодоление эмоционального выгорания (~2000 рублей): https://ncrdo.ru/do/mk-soft-skills-preodolenie-emotsionalnogo-vygoraniya/
