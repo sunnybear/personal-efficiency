@@ -9,6 +9,7 @@
 ### Курсы
 1. Физиология стресса (бесплатно): https://stepik.org/course/53315/promo
 2. Психология экстремальных ситуаций (бесплатно): https://stepik.org/course/57511/promo
+3. Методы преодоления стресса (~2000 рублей): https://ncrdo.ru/do/mk-top-10-metodov-preodoleniya-stressa/
 
 ## Баланс работа-отдых
 
