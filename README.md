@@ -30,24 +30,25 @@
 08. [Механизмы внимания](https://github.com/sunnybear/personal-efficiency/tree/main/08.%20Механизмы%20внимания)
 09. [Намерение и целеполагание](https://github.com/sunnybear/personal-efficiency/tree/main/09.%20Намерение%20и%20целеполагание)
 10. [Физическое и ментальное здоровье](https://github.com/sunnybear/personal-efficiency/tree/main/10.%20Физическое%20и%20ментальное%20здоровье)
+11. [Креативность](https://github.com/sunnybear/personal-efficiency/tree/main/11.%20Креативность)
 
 ### Часть 2: эффективное взаимодействие
 
-11. [Основы коммуникации](https://github.com/sunnybear/personal-efficiency/tree/main/11.%20Основы%20коммуникации)
-12. [Обратная связь](https://github.com/sunnybear/personal-efficiency/tree/main/12.%20Обратная%20связь)
-13. Стили взаимодействия/матрица личности
-14. [Ораторское искусство](https://github.com/sunnybear/personal-efficiency/tree/main/14.%20Ораторское%20искусство)
+12. [Основы коммуникации](https://github.com/sunnybear/personal-efficiency/tree/main/12.%20Основы%20коммуникации)
+13. [Обратная связь](https://github.com/sunnybear/personal-efficiency/tree/main/13.%20Обратная%20связь)
+14. Стили взаимодействия/матрица личности
+15. [Ораторское искусство](https://github.com/sunnybear/personal-efficiency/tree/main/15.%20Ораторское%20искусство)
 
 ### Часть 3: эффективное влияние
 
-15. [Основы лидерства: определения, типы, уровни](https://github.com/sunnybear/personal-efficiency/tree/main/15.%20Основы%20лидерства)
-16. Границы личности
-17. Формирование команды
-18. Трансформационное лидерство
+16. [Основы лидерства: определения, типы, уровни](https://github.com/sunnybear/personal-efficiency/tree/main/16.%20Основы%20лидерства)
+17. Границы личности
+18. Формирование команды
+19. Трансформационное лидерство
 
 ### Часть 4: эффективное развитие
 
-19. Обучение взрослых (андрагогика)
-20. Наставничество и коучинг
-21. Антихрупкость
-22. Настоящая реальность
+20. Обучение взрослых (андрагогика)
+21. Наставничество и коучинг
+22. Антихрупкость
+23. Настоящая реальность
