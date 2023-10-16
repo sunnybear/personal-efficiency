@@ -19,11 +19,8 @@
 
 ### Курсы
 1. Постановка целей по SMART (~1000 рублей): https://www.mental-skills.ru/training/13/
+2. Я - лидер (~2000 рублей): https://ncrdo.ru/do/mk-ya-lider/
+3. Как перестать бояться брать ответственность (~2000 рублей): https://ncrdo.ru/do/mk-kak-perestat-boyatsya-brat-otvetstvennost/
 
 ### Видео
 1. Н. Дешковец, Планирование и личные цели: https://www.youtube.com/watch?v=tcJEJUit458
-
-## Ответственность
-
-### Курсы
-1. Как перестать бояться брать ответственность (~2000 рублей): https://ncrdo.ru/do/mk-kak-perestat-boyatsya-brat-otvetstvennost/
