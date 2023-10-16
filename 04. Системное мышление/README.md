@@ -17,6 +17,8 @@
 
 ### Курсы
 1. Критическое мышление (~1000 рублей): https://stepik.org/course/133928/promo
+2. Навыки принятия решений (~2000 рублей): https://ncrdo.ru/do/mk-soft-skills-navyki-prinyatiya-resheniy/
+3. Повышение личной эффективности (~3000 рублей): https://ncrdo.ru/do/mk-povyshenie-lichnoy-effektivnosti/
 
 ## ТРИЗ: теория решения изобретательских задач
 
