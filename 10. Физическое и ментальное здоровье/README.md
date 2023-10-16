@@ -16,9 +16,10 @@
 ## Психологическое здоровье
 
 ### Литература
-1. Принципы ненасильственного общения: https://4brain.ru/blog/nenasilstvennoe-obschenie/
+1. М. Розенберг, Ненасильственное общение: https://centraprel.ru/wp-content/uploads/2022/12/58c70297-e8b6-4b57-8f89-e72992d15fab.pdf
 2. Манипуляции: https://www.b17.ru/article/24195/
 3. Детские комплексы: https://spc.edunp.by/files/02015/obj/115/15193/doc/детские_комплексы.pdf
 
 ### Курсы
 1. Скажи нет токсичным отношениям: https://stepik.org/course/124104/promo
+2. Приемы ненасильственного общения (~2000 рублей): https://ncrdo.ru/do/mk-soft-skills-priyemy-nenasilstvennogo-obshcheniya/
