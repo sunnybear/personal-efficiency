@@ -4,11 +4,14 @@
 
 ### Литература
 1. Д. Гоулман, Эмоциональный интеллект: https://detsad80.odinedu.ru/assets/img/detsad80/Педагоги/Психолог/Д.Гоулмэн%20Эмоциональный%20интеллект.pdf
+2. М. Розенберг, Ненасильственное общение: https://centraprel.ru/wp-content/uploads/2022/12/58c70297-e8b6-4b57-8f89-e72992d15fab.pdf
 
 ### Курсы
 1. Эмоциональный интеллект (~1000 рублей): https://stepik.org/course/133690/promo
 2. Психология телодвижений (бесплатно): https://stepik.org/course/52031/promo
 3. Хюмридинг и профайлинг (бесплатно): https://stepik.org/course/66207/promo
+4. Приемы ненасильственного общения (~2000 рублей): https://ncrdo.ru/do/mk-soft-skills-priyemy-nenasilstvennogo-obshcheniya/
+5. Как научиться управлять своими эмоциями (~2000 рублей): https://ncrdo.ru/do/mk-kak-nauchitsya-upravlyat-svoimi-emotsiyami/
 
 ## Осознанность
 
@@ -17,8 +20,9 @@
 
 ## Самоанализ
 
-### Курсы
-1. Саморазвитие и рефлексия (~500 рублей): https://stepik.org/course/174792/promo
-
 ### Литература
 1. К. Хорни, Самоанализ: http://psyberia.ru/book/samoanalis.pdf
+
+### Курсы
+1. Саморазвитие и рефлексия (~500 рублей): https://stepik.org/course/174792/promo
+2. Развитие саморефлексии (~2000 рублей): https://ncrdo.ru/do/mk-soft-skills-razvitie-samorefleksii/
