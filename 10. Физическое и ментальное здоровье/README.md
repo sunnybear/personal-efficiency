@@ -12,6 +12,7 @@
 3. Позитивное мышление (советы, тесты, курсы): https://levelself.ru/navyki/pozitivnoe-myshlenie.html
 
 ### Курсы
+1. Т. Рустамова, Благодари всегда (книга-тренинг, ~300 рублей): https://www.ozon.ru/product/blagodari-vsegda-prostaya-privychka-chtoby-uluchshit-otnosheniya-s-soboy-i-mirom-714999571/
 
 ## Психологическое здоровье
 
