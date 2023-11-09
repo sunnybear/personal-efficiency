@@ -5,6 +5,7 @@
 ### Литература
 1. Что такое намерение: https://dnevnik-znaniy.ru/sekrety-uspeha/namerenie.html
 2. Намерение в христианстве: https://www.b17.ru/blog/o_namerenii/
+3. Н. Хилл, Думай и богатей: https://qamalladineducation.online/wp-content/uploads/2023/05/29.-Копия-18-Думай-и-богатей.pdf
 
 ### Видео
 1. Тайна (The Secret): https://www.youtube.com/watch?v=N_RqK0MV6pc
