@@ -36,7 +36,7 @@
 
 12. [Основы коммуникации](https://github.com/sunnybear/personal-efficiency/tree/main/12.%20Основы%20коммуникации)
 13. [Обратная связь](https://github.com/sunnybear/personal-efficiency/tree/main/13.%20Обратная%20связь)
-14. Стили взаимодействия/матрица личности
+14. [Матрица личности](https://github.com/sunnybear/personal-efficiency/tree/main/14.%20Матрица%20личности)
 15. [Ораторское искусство](https://github.com/sunnybear/personal-efficiency/tree/main/15.%20Ораторское%20искусство)
 
 ### Часть 3: эффективное влияние
