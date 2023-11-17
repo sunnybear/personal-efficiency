@@ -9,6 +9,7 @@
 
 ### Курсы
 1. Типология DICS (~1000 рублей): https://stepik.org/course/175165/promo
+2. Психотипы и исскуство влияния (~10000 рублей): https://master.avernus.ru/psychotypes
 
 ## Социальные игры
 
