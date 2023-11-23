@@ -20,6 +20,7 @@
 
 ### Курсы
 1. Школа спикеров от Geeks Teachers (бесплатно): https://stepik.org/course/55838/promo
+2. Р. Поборчий, Подготовка к публичным выступлениям (сторителлинг, ~24000 рублей): https://pmclub.pro/courses/shkola-spikera-sekrety-publichnyh-vystuplenij
 
 ## Актерское мастерство
 
