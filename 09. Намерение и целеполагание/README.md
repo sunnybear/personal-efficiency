@@ -12,6 +12,7 @@
 2. Тайна 2, Сила мысли: https://www.youtube.com/watch?v=6byXJT6334s
 
 ### Курсы
+1. Искусство достижения целей (~500 рублей): https://stepik.org/course/182281/promo
 
 ## Целеполагание
 
