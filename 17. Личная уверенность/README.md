@@ -14,9 +14,9 @@
 ## Уверенность
 
 ### Литература
-1. Р. Энтони, Главные секреты уверенности в себе: https://vk.com/doc2889433_639171982?hash=H3mbqHXdyNorW2CnpVvn5fDcpDNXwVejF097Yve0ULo&dl=D79f40Gyf4K7s81aapmq5aFTzXrRn7lkzic1FXgr74X
-2. Б. Блюменталь, Одна привычка в неделю: https://vk.com/doc2889433_639172540?hash=Z35Ci873BBrZ7IpEhDzmArSzcOiq6F5GxYnYZURlOLg&dl=hhWXdTZwXQ43XqWTMVOp4DYLgoV9BSHRvAWENk24Zw0
-3. Б. Литвак, Найди точку опоры: https://vk.com/doc2889433_639172502?hash=9xhgDGwLMdTbsnyIFXpd8IsxH3oeMZhivJxSq1HAQPk&dl=NZyELHMsqeSXtZDfP7yPbtO9EQUaozTniegmdnANqZ8
+1. Р. Энтони, Главные секреты уверенности в себе: https://vk.com/wall-96463882_5706
+2. Б. Блюменталь, Одна привычка в неделю: https://vk.com/wall-96463882_5706
+3. Б. Литвак, Найди точку опоры: https://vk.com/wall-96463882_5706
 
 ### Курсы
 1. Самооценка, путь к себе (~2000 рублей): https://stepik.org/course/181048/promo
