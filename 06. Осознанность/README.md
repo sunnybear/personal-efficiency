@@ -1,4 +1,4 @@
-# Осознанность: правильные вопросы к себе
+# Осознанность: правильные вопросы к себе и другим
 
 ## Эмоциональный интеллект
 
@@ -11,19 +11,21 @@
 3. Хюмридинг и профайлинг (бесплатно): https://stepik.org/course/66207/promo
 4. Как научиться управлять своими эмоциями (~2000 рублей): https://ncrdo.ru/do/mk-kak-nauchitsya-upravlyat-svoimi-emotsiyami/
 
-## Осознанность
+## Осознанность и самоанализ
 
 ### Литература
 1. 5 почему: https://lifehacker.ru/5-pochemu/
+2. К. Хорни, Самоанализ: http://psyberia.ru/book/samoanalis.pdf
 
 ### Курсы
 1. Практика осознанности (~1000 рублей): https://stepik.org/course/70419/promo
+2. Саморазвитие и рефлексия (~500 рублей): https://stepik.org/course/174792/promo
+3. Развитие саморефлексии (~2000 рублей): https://ncrdo.ru/do/mk-soft-skills-razvitie-samorefleksii/
 
-## Самоанализ
+## Понимание
 
 ### Литература
-1. К. Хорни, Самоанализ: http://psyberia.ru/book/samoanalis.pdf
+1. Почему люди неправильно понимают смысл: https://allfanera.ru/pochemu-lyudi-ne-pravil-no-ponimayut-smysl/
 
 ### Курсы
-1. Саморазвитие и рефлексия (~500 рублей): https://stepik.org/course/174792/promo
-2. Развитие саморефлексии (~2000 рублей): https://ncrdo.ru/do/mk-soft-skills-razvitie-samorefleksii/
+1. Проактивное мышление (~500 рублей): https://stepik.org/course/126433/promo
