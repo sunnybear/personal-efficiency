@@ -29,6 +29,7 @@
 
 ### Курсы
 1. Проактивное мышление (~500 рублей): https://stepik.org/course/126433/promo
+2. Критическое мышление через боль и слезы (бесплатно): https://stepik.org/course/92210/promo
 
 ### Видео
 1. Критическое мышление: https://www.youtube.com/watch?v=FEZ6fDwUM8Q&list=PLJqKvXmfMlsExRx-4bm-nOpaa62Xu2nw5
