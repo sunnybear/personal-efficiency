@@ -8,8 +8,9 @@
 3. Таланты Gallup: https://talentcoach.ru/test-gallup-strengthsfinder/
 
 ### Курсы
-1. Типология DICS (~1000 рублей): https://stepik.org/course/175165/promo
-2. Психотипы и исскуство влияния (~10000 рублей): https://master.avernus.ru/psychotypes
+1. Темперамент, инструкция к использованию (бесплатно): https://stepik.org/course/84475/promo
+2. Типология DICS (~1000 рублей): https://stepik.org/course/175165/promo
+3. Психотипы и исскуство влияния (~10000 рублей): https://master.avernus.ru/psychotypes
 
 ## Социальные игры
 
