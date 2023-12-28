@@ -18,28 +18,31 @@
 
 ## Содержание
 
-### Часть 1: эффективное действие
+### Часть 1: базовое действие
 
 01. [Базовые понятия: что такое эффективность, как определить свою эффективность, с чего начать](https://github.com/sunnybear/personal-efficiency/tree/main/01.%20Базовые%20вопросы)
 02. [Тайм-менеджмент: известные техники](https://github.com/sunnybear/personal-efficiency/tree/main/02.%20Тайм-менеджмент)
 03. [Секреты мотивации](https://github.com/sunnybear/personal-efficiency/tree/main/03.%20Секреты%20мотивации)
 04. [Управление стрессом](https://github.com/sunnybear/personal-efficiency/tree/main/04.%20Стрессоустойчивость)
-05. [Системное мышление](https://github.com/sunnybear/personal-efficiency/tree/main/05.%20Системное%20мышление)
-06. [Осознанность и эмоциональный интеллект](https://github.com/sunnybear/personal-efficiency/tree/main/06.%20Осознанность)
-07. [Интуиция](https://github.com/sunnybear/personal-efficiency/tree/main/07.%20Интуиция)
-08. [Механизмы внимания](https://github.com/sunnybear/personal-efficiency/tree/main/08.%20Механизмы%20внимания)
-09. [Намерение и целеполагание](https://github.com/sunnybear/personal-efficiency/tree/main/09.%20Намерение%20и%20целеполагание)
-10. [Физическое и ментальное здоровье](https://github.com/sunnybear/personal-efficiency/tree/main/10.%20Физическое%20и%20ментальное%20здоровье)
+05. [Физическое и ментальное здоровье](https://github.com/sunnybear/personal-efficiency/tree/main/05.%20Физическое%20и%20ментальное%20здоровье)
+
+### Часть 2: эффективное действие
+  
+06. [Системное мышление](https://github.com/sunnybear/personal-efficiency/tree/main/06.%20Системное%20мышление)
+07. [Осознанность и эмоциональный интеллект](https://github.com/sunnybear/personal-efficiency/tree/main/07.%20Осознанность)
+08. [Интуиция](https://github.com/sunnybear/personal-efficiency/tree/main/08.%20Интуиция)
+09. [Механизмы внимания](https://github.com/sunnybear/personal-efficiency/tree/main/09.%20Механизмы%20внимания)
+10. [Намерение и целеполагание](https://github.com/sunnybear/personal-efficiency/tree/main/10.%20Намерение%20и%20целеполагание)
 11. [Креативность](https://github.com/sunnybear/personal-efficiency/tree/main/11.%20Креативность)
 
-### Часть 2: эффективное взаимодействие
+### Часть 3: эффективное взаимодействие
 
 12. [Основы коммуникации](https://github.com/sunnybear/personal-efficiency/tree/main/12.%20Основы%20коммуникации)
 13. [Обратная связь и смысл](https://github.com/sunnybear/personal-efficiency/tree/main/13.%20Обратная%20связь%20и%20смысл)
 14. [Матрица личности](https://github.com/sunnybear/personal-efficiency/tree/main/14.%20Матрица%20личности)
 15. [Ораторское искусство](https://github.com/sunnybear/personal-efficiency/tree/main/15.%20Ораторское%20искусство)
 
-### Часть 3: эффективное влияние
+### Часть 4: эффективное влияние
 
 16. [Основы лидерства: определения, типы, уровни](https://github.com/sunnybear/personal-efficiency/tree/main/16.%20Основы%20лидерства)
 17. [Личная уверенность](https://github.com/sunnybear/personal-efficiency/tree/main/17.%20Личная%20уверенность)
