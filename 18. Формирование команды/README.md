@@ -4,6 +4,9 @@
 
 ### Литература
 1. Жизненный цикл команды: https://practicum.yandex.ru/blog/etapy-formirovaniya-komandy/
-2. 
+2. М. Милинис, Команда, способная воплотить мечту: https://ruef.ru/assets/files/editions/Импульс%20для%20лидерства%202.pdf
 
 ## Командное взаимодействие
+
+### Курсы
+1. Лидерство и командообразование (бесплатно): https://stepik.org/course/83003/promo
