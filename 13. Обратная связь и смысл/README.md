@@ -17,6 +17,7 @@
 ### Литература
 1. М. Ильяхов, Пиши, сокращай: https://lunaids.org/wp-content/uploads/2020/01/Пиши-сокращай.pdf
 2. М. Ильяхов, Ясно, понятно
+3. А. Лурия, Язык и сознание: http://detsad86kursk.ru/attachments/article/158/Lyriya.pdf
 
 ### Курсы
 1. Психология мышления (~500 рублей): https://stepik.org/course/122582/promo
