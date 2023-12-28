@@ -13,8 +13,8 @@
 ## Командное взаимодействие
 
 ### Литература
-1. 5 моделей эффективного командного взаимодействия: https://habr.com/ru/companies/hygger/articles/418001/
-2. П. Ленсиони, 5 пороков команды: https://calibre.dmdevelopment.ru/download/18/pdf/18.pdf
+1. 6 моделей эффективного командного взаимодействия: https://www.wrike.com/ru/blog/shest-razlichnyh-modelej-effektivnosti-komandnoj-raboty/
+2. П. Ленциони, 5 пороков команды: https://calibre.dmdevelopment.ru/download/18/pdf/18.pdf
 
 ### Курсы
 1. Лидерство и командообразование (бесплатно): https://stepik.org/course/83003/promo
