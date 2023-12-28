@@ -22,7 +22,7 @@
 2. Саморазвитие и рефлексия (~500 рублей): https://stepik.org/course/174792/promo
 3. Развитие саморефлексии (~2000 рублей): https://ncrdo.ru/do/mk-soft-skills-razvitie-samorefleksii/
 
-## Понимание
+## Критическое мышление
 
 ### Литература
 1. Почему люди неправильно понимают смысл: https://allfanera.ru/pochemu-lyudi-ne-pravil-no-ponimayut-smysl/
