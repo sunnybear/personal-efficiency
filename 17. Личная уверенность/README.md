@@ -9,7 +9,7 @@
 4. Личные границы, которых вы заслуживаете: https://www.b17.ru/article/healthy_boundaries_for_you/
 
 ### Курсы
-1. Психологическая границы личности (бесплатно): https://stepik.org/course/129112/promo
+1. Психологические границы личности (бесплатно): https://stepik.org/course/129112/promo
 
 ## Уверенность
 
