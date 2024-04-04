@@ -30,6 +30,9 @@
 ### Курсы
 1. Проактивное мышление (~500 рублей): https://stepik.org/course/126433/promo
 2. Критическое мышление через боль и слезы (бесплатно): https://stepik.org/course/92210/promo
+3. Критическое мышление (~1000 рублей): https://stepik.org/course/133928/promo
+4. Навыки принятия решений (~2000 рублей): https://ncrdo.ru/do/mk-soft-skills-navyki-prinyatiya-resheniy/
+5. Повышение личной эффективности (~3000 рублей): https://ncrdo.ru/do/mk-povyshenie-lichnoy-effektivnosti/
 
 ### Видео
 1. Критическое мышление: https://www.youtube.com/watch?v=FEZ6fDwUM8Q&list=PLJqKvXmfMlsExRx-4bm-nOpaa62Xu2nw5
