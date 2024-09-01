@@ -16,6 +16,7 @@
 3. Деловые коммуникации (бесплатно): https://stepik.org/course/87737/promo
 4. Искусство коммуникации (~8000 рублей): https://stepik.org/course/89962/promo
 5. Кинотерапия (бесплатно): https://stepik.org/course/196278/promo
+6. Эмпатия (бесплатно): https://puzzlebrain.ru/regular/course_people_empathy
 
 ## Конфликтология
 
