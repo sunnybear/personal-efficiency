@@ -10,6 +10,7 @@
 2. Психология телодвижений (бесплатно): https://stepik.org/course/52031/promo
 3. Хюмридинг и профайлинг (бесплатно): https://stepik.org/course/66207/promo
 4. Как научиться управлять своими эмоциями (~2000 рублей): https://ncrdo.ru/do/mk-kak-nauchitsya-upravlyat-svoimi-emotsiyami/
+5. Эмоциональный интеллект (~3000 рублей): https://4brain.ru/lnd/
 
 ## Осознанность и самоанализ
 
