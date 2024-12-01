@@ -47,7 +47,7 @@
 16. [Основы лидерства: определения, типы, уровни](https://github.com/sunnybear/personal-efficiency/tree/main/16.%20Основы%20лидерства)
 17. [Личная уверенность](https://github.com/sunnybear/personal-efficiency/tree/main/17.%20Личная%20уверенность)
 18. [Формирование команды](https://github.com/sunnybear/personal-efficiency/tree/main/18.%20Формирование%20команды)
-19. Трансформационное лидерство
+19. [Трансформационное лидерство](https://github.com/sunnybear/personal-efficiency/tree/main/19.%20Трансформационное%20лидерство)
 
 ### Ступень 4: эффективное развитие
 
