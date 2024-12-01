@@ -5,6 +5,7 @@
 ### Литература
 1. Формирование стрессоустойчивости: http://rehacomp.ru/wp-content/uploads/2023/01/25vypusk.pdf
 2. Развитие стрессоустойчивости: https://publishing.intelgr.com/archive/Razvitie-stressoustojchivosti.pdf
+3. Нейл Фьоре, Легкий способ начать новую жизнь. Как избавиться от стресса, внутренних конфликтов и вредных привычек: https://djvu.online/file/OA3ZN9KgUfZbO
 
 ### Курсы
 1. Физиология стресса (бесплатно): https://stepik.org/course/53315/promo
