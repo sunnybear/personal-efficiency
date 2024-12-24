@@ -4,8 +4,9 @@
 
 ### Литература
 1. Обзор техник: https://trends.rbc.ru/trends/education/606335659a7947a191c4b092
-2. Г. Архангельский, Тайм-Драйв: https://rockman256.files.wordpress.com/2015/05/arhangelskii_g-_taim-draiv_ipod.pdf
-3. Г. Архангельский. Тайм-менеджемент: полный курс, https://www.litres.ru/book/gleb-arhangelskiy/taym-menedzhment-polnyy-kurs-6880608/
+2. Р. Кох. Менеджер 80/20: https://www.retail.ru/upload/iblock/b0a/8020.pdf
+3. Г. Архангельский, Тайм-Драйв: https://rockman256.files.wordpress.com/2015/05/arhangelskii_g-_taim-draiv_ipod.pdf
+4. Г. Архангельский. Тайм-менеджемент: полный курс, https://www.litres.ru/book/gleb-arhangelskiy/taym-menedzhment-polnyy-kurs-6880608/
 
 ### Курсы
 1. Тайм-менеджмент (бесплатный): https://stepik.org/course/102186/promo
