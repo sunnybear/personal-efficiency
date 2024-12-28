@@ -19,3 +19,5 @@
 1. Г Альтшуллер, Творчество как наука: https://pqm-online.com/assets/files/lib/books/altshuller.pdf
 
 ### Курсы
+1. Триз ликбез 42 (~3500 рублей): https://stepik.org/course/121942/promo
+2. Триз экспресс (~1000 рублей): https://4brain.ru/triz/
