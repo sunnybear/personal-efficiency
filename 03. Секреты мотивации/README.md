@@ -18,6 +18,7 @@
 1. Д. Хейден, Миф о мотивации: https://www.mann-ivanov-ferber.ru/books/mif-o-motivaczii/
 2. 17 способов прокачать мотивацию: https://hh.ru/article/28458
 3. 100 мотивационных цитат: https://www.infoniac.ru/news/100-korotkih-motiviruyushih-citat-i-fraz-na-kazhdyi-den.html
+4. В.И. Герчиков, Типологическая модель мотивации: https://4brain.ru/blog/tipologicheskaja-model-motivacii-gerchikova/
 
 ### Курсы
 1. Как создавать увлечения, потоки и саморазвитие (~1000 рублей): https://stepik.org/course/64968/promo
