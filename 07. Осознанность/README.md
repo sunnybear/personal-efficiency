@@ -6,11 +6,12 @@
 1. Д. Гоулман, Эмоциональный интеллект: https://detsad80.odinedu.ru/assets/img/detsad80/Педагоги/Психолог/Д.Гоулмэн%20Эмоциональный%20интеллект.pdf
 
 ### Курсы
-1. Эмоциональный интеллект (~1000 рублей): https://stepik.org/course/133690/promo
-2. Психология телодвижений (бесплатно): https://stepik.org/course/52031/promo
-3. Хюмридинг и профайлинг (бесплатно): https://stepik.org/course/66207/promo
-4. Как научиться управлять своими эмоциями (~2000 рублей): https://ncrdo.ru/do/mk-kak-nauchitsya-upravlyat-svoimi-emotsiyami/
-5. Эмоциональный интеллект (~3000 рублей): https://4brain.ru/lnd/
+1. Эмоциональный интеллект и управление эмоциями (бесплатно): https://stepik.org/course/244446/promo
+2. Эмоциональный интеллект (~1000 рублей): https://stepik.org/course/133690/promo
+3. Психология телодвижений (бесплатно): https://stepik.org/course/52031/promo
+4. Хюмридинг и профайлинг (бесплатно): https://stepik.org/course/66207/promo
+5. Как научиться управлять своими эмоциями (~2000 рублей): https://ncrdo.ru/do/mk-kak-nauchitsya-upravlyat-svoimi-emotsiyami/
+6. Эмоциональный интеллект (~3000 рублей): https://4brain.ru/lnd/
 
 ## Осознанность и самоанализ
 
