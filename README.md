@@ -21,37 +21,38 @@
 ### Ступень 0: базовое действие
 
 01. [Базовые понятия: что такое эффективность, как определить свою эффективность, с чего начать](https://github.com/sunnybear/personal-efficiency/tree/main/01.%20Базовые%20вопросы)
-02. [Тайм-менеджмент: известные техники](https://github.com/sunnybear/personal-efficiency/tree/main/02.%20Тайм-менеджмент)
-03. [Секреты мотивации](https://github.com/sunnybear/personal-efficiency/tree/main/03.%20Секреты%20мотивации)
-04. [Управление стрессом](https://github.com/sunnybear/personal-efficiency/tree/main/04.%20Стрессоустойчивость)
-05. [Физическое и ментальное здоровье](https://github.com/sunnybear/personal-efficiency/tree/main/05.%20Физическое%20и%20ментальное%20здоровье)
+02. [Самодисциплина](https://github.com/sunnybear/personal-efficiency/tree/main/02.%20Самодисциплина)
+03. [Тайм-менеджмент: известные техники](https://github.com/sunnybear/personal-efficiency/tree/main/03.%20Тайм-менеджмент)
+04. [Секреты мотивации](https://github.com/sunnybear/personal-efficiency/tree/main/04.%20Секреты%20мотивации)
+05. [Управление стрессом](https://github.com/sunnybear/personal-efficiency/tree/main/05.%20Стрессоустойчивость)
+06. [Физическое и ментальное здоровье](https://github.com/sunnybear/personal-efficiency/tree/main/06.%20Физическое%20и%20ментальное%20здоровье)
 
 ### Ступень 1: эффективное действие
   
-06. [Системное мышление](https://github.com/sunnybear/personal-efficiency/tree/main/06.%20Системное%20мышление)
-07. [Осознанность и эмоциональный интеллект](https://github.com/sunnybear/personal-efficiency/tree/main/07.%20Осознанность)
-08. [Интуиция](https://github.com/sunnybear/personal-efficiency/tree/main/08.%20Интуиция)
-09. [Механизмы внимания](https://github.com/sunnybear/personal-efficiency/tree/main/09.%20Механизмы%20внимания)
-10. [Намерение и целеполагание](https://github.com/sunnybear/personal-efficiency/tree/main/10.%20Намерение%20и%20целеполагание)
-11. [Креативность](https://github.com/sunnybear/personal-efficiency/tree/main/11.%20Креативность)
+07. [Системное мышление](https://github.com/sunnybear/personal-efficiency/tree/main/07.%20Системное%20мышление)
+08. [Осознанность и эмоциональный интеллект](https://github.com/sunnybear/personal-efficiency/tree/main/08.%20Осознанность)
+09. [Интуиция](https://github.com/sunnybear/personal-efficiency/tree/main/09.%20Интуиция)
+10. [Механизмы внимания](https://github.com/sunnybear/personal-efficiency/tree/main/10.%20Механизмы%20внимания)
+11. [Намерение и целеполагание](https://github.com/sunnybear/personal-efficiency/tree/main/11.%20Намерение%20и%20целеполагание)
+12. [Креативность](https://github.com/sunnybear/personal-efficiency/tree/main/12.%20Креативность)
 
 ### Ступень 2: эффективное взаимодействие
 
-12. [Основы коммуникации](https://github.com/sunnybear/personal-efficiency/tree/main/12.%20Основы%20коммуникации)
-13. [Обратная связь и смысл](https://github.com/sunnybear/personal-efficiency/tree/main/13.%20Обратная%20связь%20и%20смысл)
-14. [Матрица личности](https://github.com/sunnybear/personal-efficiency/tree/main/14.%20Матрица%20личности)
-15. [Ораторское искусство](https://github.com/sunnybear/personal-efficiency/tree/main/15.%20Ораторское%20искусство)
+13. [Основы коммуникации](https://github.com/sunnybear/personal-efficiency/tree/main/13.%20Основы%20коммуникации)
+14. [Обратная связь и смысл](https://github.com/sunnybear/personal-efficiency/tree/main/14.%20Обратная%20связь%20и%20смысл)
+15. [Матрица личности](https://github.com/sunnybear/personal-efficiency/tree/main/15.%20Матрица%20личности)
+16. [Ораторское искусство](https://github.com/sunnybear/personal-efficiency/tree/main/16.%20Ораторское%20искусство)
 
 ### Ступень 3: эффективное влияние
 
-16. [Основы лидерства: определения, типы, уровни](https://github.com/sunnybear/personal-efficiency/tree/main/16.%20Основы%20лидерства)
-17. [Личная уверенность](https://github.com/sunnybear/personal-efficiency/tree/main/17.%20Личная%20уверенность)
-18. [Формирование команды](https://github.com/sunnybear/personal-efficiency/tree/main/18.%20Формирование%20команды)
-19. [Трансформационное лидерство](https://github.com/sunnybear/personal-efficiency/tree/main/19.%20Трансформационное%20лидерство)
+17. [Основы лидерства: определения, типы, уровни](https://github.com/sunnybear/personal-efficiency/tree/main/17.%20Основы%20лидерства)
+18. [Личная уверенность](https://github.com/sunnybear/personal-efficiency/tree/main/18.%20Личная%20уверенность)
+19. [Формирование команды](https://github.com/sunnybear/personal-efficiency/tree/main/19.%20Формирование%20команды)
+20. [Трансформационное лидерство](https://github.com/sunnybear/personal-efficiency/tree/main/20.%20Трансформационное%20лидерство)
 
 ### Ступень 4: эффективное развитие
 
-20. Обучение взрослых (андрагогика)
-21. Наставничество и коучинг
-22. Антихрупкость
-23. [Настоящая реальность](https://github.com/sunnybear/personal-efficiency/tree/main/23.%20Настоящая%20реальность)
+21. Обучение взрослых (андрагогика)
+22. Наставничество и коучинг
+23. Антихрупкость
+24. [Настоящая реальность](https://github.com/sunnybear/personal-efficiency/tree/main/24.%20Настоящая%20реальность)
