@@ -4,6 +4,7 @@
 1. Дао лидера (Профи): https://readymag.com/profiru/dao/
 2. Разница между лидером и менеджером: https://habr.com/ru/articles/862786/
 3. Д.Ян. Пять стилей лидерства: https://vc.ru/hr/158596-komanda-mechty-david-yan-o-tom-kakie-lyudi-privodyat-biznes-k-uspehu
+4. К.Скотт. Радикальная прямота: как управлять, не теряя человечности: https://books.yandex.ru/books/hSDyOjyp
 
 ### Курсы
 1. Лидерство и командное развитие (бесплатно): https://stepik.org/course/90545/promo
